@@ -14,8 +14,7 @@
 
 > Ce bot est sous licence et également en open-source.
 
-XLetter est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [sqlite](https://www.sqlite.org) par [Khd]
-(https://github.com/KhdDev) et [Boritoz] (https://github.com/Boritoz).  
+XLetter est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [sqlite](https://www.sqlite.org) par [Khd](https://github.com/KhdDev) et [Boritoz](https://github.com/Boritoz).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 ## Informations
 
