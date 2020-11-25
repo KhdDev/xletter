@@ -1,20 +1,19 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Alcatraz" src="https://i.imgur.com/6UGnTd9.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Xletter" src="https://i.imgur.com/6UGnTd9.png">  
 
 # Xletter
 
 [![](https://img.shields.io/discord/766318515619102730.svg?logo=discord&colorB=7289DA)](https://discord.gg/aGP5kvxFEc)
 [![](https://img.shields.io/badge/discord.js-v12.4.1-blue.svg?logo=npm)](https://discord.js.org/)
 [![](https://img.shields.io/badge/nodejs-14.15.0-green.svg)](https://www.nodejs.org)
-[![](https://img.shields.io/badge/patreon-donation-orange.svg)](https://www.patreon.com/AlcatrazBot)
-[![](https://www.codefactor.io/repository/gitlab/galackqsm/alcatraz/badge)](https://www.codefactor.io/repository/gitlab/galackqsm/Alcatraz)
-[![](https://top.gg/api/widget/status/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
-[![](https://top.gg/api/widget/upvotes/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
-[![](https://top.gg/api/widget/servers/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
-[![](https://top.gg/api/widget/owner/774652242787041310.svg)](https://top.gg/bot/774652242787041310)
+[![](https://img.shields.io/badge/patreon-donation-orange.svg)](https://www.patreon.com/XletterBot)
+[![](https://top.gg/api/widget/status/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
+[![](https://top.gg/api/widget/upvotes/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
+[![](https://top.gg/api/widget/servers/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
+[![](https://top.gg/api/widget/owner/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
 
-> Ce bot est sous licence et également en open-source.
+> Ce bot est sous licence.
 
-XLetter est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [sqlite](https://www.sqlite.org) par [Khd](https://github.com/KhdDev) et [Boritoz](https://github.com/Boritoz).  
+Xletter est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [sqlite](https://www.sqlite.org) par [Khd](https://github.com/KhdDev) et [Boritoz](https://github.com/Boritoz).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 ## Informations
 
