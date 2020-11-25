@@ -17,7 +17,7 @@ Xletter est un bot Discord codé en JavaScript avec [Discord.js](https://discord
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 ## Informations
 
-### Bot complet
+### __Bot complet__
 
 Offres de Xletter:
 * 💥 Un bot 100% Français pas comme les autres
@@ -26,7 +26,7 @@ Offres de Xletter:
 * 🤩 Besoin que d'un bot au mieux de plusieurs
 * ⚙️ Rejoins la communautés de Xletter Projet
 
-### Les commandes
+### __Les commandes__
 
 Xletter a beaucoup de fonctionnalités, avec **12 catégories principales**:
 
