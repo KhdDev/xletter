@@ -6,10 +6,10 @@
 [![](https://img.shields.io/badge/discord.js-v12.4.1-blue.svg?logo=npm)](https://discord.js.org/)
 [![](https://img.shields.io/badge/nodejs-14.15.0-green.svg)](https://www.nodejs.org)
 [![](https://img.shields.io/badge/patreon-donation-orange.svg)](https://www.patreon.com/XletterBot)
-[![](https://top.gg/api/widget/status/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
-[![](https://top.gg/api/widget/upvotes/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
-[![](https://top.gg/api/widget/servers/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
-[![](https://top.gg/api/widget/owner/774652242787041310.svg)](https://top.gg/bot/746860347113340938)
+[![](https://top.gg/api/widget/status/746860347113340938.svg)](https://top.gg/bot/746860347113340938)
+[![](https://top.gg/api/widget/upvotes/746860347113340938.svg)](https://top.gg/bot/746860347113340938)
+[![](https://top.gg/api/widget/servers/746860347113340938.svg)](https://top.gg/bot/746860347113340938)
+[![](https://top.gg/api/widget/owner/746860347113340938.svg)](https://top.gg/bot/746860347113340938)
 
 > Ce bot est sous licence.
 
@@ -54,7 +54,7 @@ Xletter a beaucoup de fonctionnalités, avec **12 catégories principales**:
 
 *   [Discord](https://discord.gg/CJweKv8MBf)
 *   [Github](https://github.com/KhdDev/xletter)
-*   [Donation](https://www.patreon.com/XLetterBot)
+*   [Donation](https://www.patreon.com/XletterBot)
 *   [Site](https://xletter-bot.com)
 
 
